@@ -16,4 +16,4 @@ Solutions of HackerRank Problem Solving questions
 - Compare every element of the list.
 - Greater element will award one point.
 - For equal elements, no points awarded.
-- 
+- Return points of both the contestants.
