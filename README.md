@@ -8,7 +8,7 @@ Solutions of HackerRank Problem Solving questions
 ## Solve Me First
 - Use "return a+b".
 
-
+##
 ## Simple Array Sum
 - Add all the elements of the given list and return the sum.
 
