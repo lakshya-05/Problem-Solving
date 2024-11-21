@@ -11,3 +11,9 @@ Solutions of HackerRank Problem Solving questions
 
 ## Simple Array Sum
 - Add all the elements of the given list and return the sum.
+
+## Compare The Triplets
+- Compare every element of the list.
+- Greater element will award one point.
+- For equal elements, no points awarded.
+- 
