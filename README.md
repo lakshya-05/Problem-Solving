@@ -20,3 +20,7 @@ Solutions of HackerRank Problem Solving questions
 - Return points of both the contestants.
 
 ##
+## A Very Big Sum
+- As I'm using python so no need for long or double datatype so just simply add the elements of the given list using the "sum()" function and return the sum.
+
+##
