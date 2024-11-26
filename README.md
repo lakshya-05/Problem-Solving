@@ -24,3 +24,8 @@ Solutions of HackerRank Problem Solving questions
 - As I'm using python so no need for long or double datatype so just simply add the elements of the given list using the "sum()" function and return the sum.
 
 ##
+## Diagonal Difference
+- First, add all the elements which are at i=j index number (Ex- at (0,0),(1,1),(2,2)...etc).
+- Then, add all the elements which are at i=n-j-1 index number (Ex- at (0,2),(1,1),(2,0)...etc).
+
+##
