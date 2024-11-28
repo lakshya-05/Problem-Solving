@@ -29,3 +29,5 @@ Solutions of HackerRank Problem Solving questions
 - Then, add all the elements which are at i=n-j-1 index number (Ex- at (0,2),(1,1),(2,0)...etc).
 
 ##
+## Plus Minus
+- 
