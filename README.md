@@ -30,4 +30,10 @@ Solutions of HackerRank Problem Solving questions
 
 ##
 ## Plus Minus
-- 
+- For first line of output, count number of positive elements in the list and divide by total elements of list.
+- Print the output upto 6 decimals.
+- For second line of output, count number of negative elements in the list and divide by total elements of list.
+- Print the output upto 6 decimals.
+- For last line of output, count number of zeros in the list and divide by total elements of list.
+- Print the output upto 6 decimals.
+
