@@ -3,6 +3,7 @@ Solutions of HackerRank Problem Solving questions
 
 - Here I Lakshya Porwal will be uploading Solutions of Problem Solving questions from HackerRank website.
 - All the solutions will be in Python Language itself.
+- The solutions I'm provinding with will be in the order I solved the problems. 
 
 ##
 ## Solve Me First
