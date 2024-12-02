@@ -39,3 +39,6 @@ Solutions of HackerRank Problem Solving questions
 - Print the output upto 6 decimals.
 
 ##
+## Staircase
+- Use nested for loop for printing the desired pattern.
+- Make sure to add delimeter as end='' 
