@@ -42,3 +42,5 @@ Solutions of HackerRank Problem Solving questions
 ## Staircase
 - Use nested for loop for printing the desired pattern.
 - Make sure to add delimeter as end='' 
+
+##
